@@ -1,10 +1,10 @@
 Package.describe({
-  summary: "Meteor NewRelic agent",
+  "summary": "Meteor NewRelic agent",
   "name": "sewdn:newrelic",
   "version": "1.22.1",
   "author": "Sewdn (https://twitter.com/Sewdn)",
-  "homepage": "https://github.com/mycartio/newrelic",
-  "git": "https://github.com/mycartio/newrelic.git"
+  "homepage": "https://github.com/Sewdn/meteor-newrelic",
+  "git": "https://github.com/Sewdn/meteor-newrelic.git"
 });
 
 Npm.depends({
